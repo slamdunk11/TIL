@@ -1,0 +1,9 @@
+https://images.velog.io/images/slamdunk11/post/c217c13a-2d17-4422-b3ce-5dc7111872ad/image.png
+
+Error: Target container is not a DOM element.
+
+에러원인: firebase로 배포하다가 잘 안되어서 연달아 s3 배포하려고 하니까 이렇게 에러가 났다.
+firebase로 배포하면 html 파일에 변화가 생기는 데 그걸로 s3로 배포하려고 해서 에러가 났다.
+
+해결방법: html을 원래의 html 파일로 바꿔주니 에러가 없어졌다.
+
