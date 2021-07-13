@@ -1,0 +1,5 @@
+## 오늘 배운 것
+
+- mapStateToProps - useSelector
+- mapDispatchToProps - useDispatch
+- 버킷리스트 crud 중 crd 구현
