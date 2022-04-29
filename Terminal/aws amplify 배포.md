@@ -9,7 +9,7 @@
 ### 1. merge develop into main 하는 법
 --> git checkout main // main으로 브랜치 바꾸고<br/>
 -->git pull<br/>
--->git merge develop // develop 브랜치를 main에 merge!
+-->git merge develop // develop 브랜치를 main에 merge!(로컬의 develop 브랜치가 pull 받은 최신 상태여야한다)
 
 ### 2. add tag(version) to the commit 하는 법
 (2~3번 fork 프로그램을 이용하면 편하다, fork는 homebrew를 통해 vscode 터미널에서 설치 가능!<br/>
